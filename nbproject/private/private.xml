@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+	<editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2"
+		lastBookmarkId="0" />
+	<open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+		<group>
+			<file>file:/home/daniele/NetBeansProjects/454949ProgettoInfovis/src/main/Home.java</file>
+			<file>file:/home/daniele/NetBeansProjects/454949ProgettoInfovis/src/import_dati_csv/LoadEurostatMorti.java</file>
+			<file>file:/home/daniele/NetBeansProjects/454949ProgettoInfovis/src/dataset/Eurostat.csv</file>
+			<file>file:/home/daniele/NetBeansProjects/454949ProgettoInfovis/manifest.mf</file>
+			<file>file:/home/daniele/NetBeansProjects/454949ProgettoInfovis/src/import_dati_csv/TestMain.java</file>
+			<file>file:/home/daniele/NetBeansProjects/454949ProgettoInfovis/src/model/EurostatTotaleMortiAnno.java</file>
+			<file>file:/home/daniele/NetBeansProjects/454949ProgettoInfovis/src/model/CoppiaAnnoValore.java</file>
+		</group>
+	</open-files>
+</project-private>

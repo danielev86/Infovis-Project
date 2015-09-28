@@ -1,0 +1,210 @@
+Localizzazionedellincidente,Territorio,Anno,Totale,Popolazione
+altra strada,Bari,2004,94,314166
+altra strada,Bari,2005,91,321312
+altra strada,Bari,2006,106,326915
+altra strada,Bari,2007,61,325983
+altra strada,Bari,2008,75,325983
+altra strada,Bari,2009,64,321771
+altra strada,Bari,2010,37,320413
+altra strada,Bari,2011,52,320312
+altra strada,Bari,2012,74,319915
+altra strada,Bari,2013,46,314311
+altra strada,Firenze,2004,36,367259
+altra strada,Firenze,2005,26,367659
+altra strada,Firenze,2006,17,366901
+altra strada,Firenze,2007,18,366433
+altra strada,Firenze,2008,17,366433
+altra strada,Firenze,2009,19,365873
+altra strada,Firenze,2010,20,367280
+altra strada,Firenze,2011,19,370091
+altra strada,Firenze,2012,26,372075
+altra strada,Firenze,2013,14,361679
+altra strada,Milano,2004,34,1271898
+altra strada,Milano,2005,41,1285669
+altra strada,Milano,2006,32,1308735
+altra strada,Milano,2007,34,1306086
+altra strada,Milano,2008,37,1306086
+altra strada,Milano,2009,28,1296958
+altra strada,Milano,2010,20,1301600
+altra strada,Milano,2011,15,1315802
+altra strada,Milano,2012,48,1333670
+altra strada,Milano,2013,28,1251137
+altra strada,Napoli,2004,57,1000449
+altra strada,Napoli,2005,24,997810
+altra strada,Napoli,2006,35,984242
+altra strada,Napoli,2007,18,979690
+altra strada,Napoli,2008,21,979690
+altra strada,Napoli,2009,26,968484
+altra strada,Napoli,2010,26,963300
+altra strada,Napoli,2011,18,961257
+altra strada,Napoli,2012,44,958156
+altra strada,Napoli,2013,32,960079
+altra strada,Palermo,2004,20,679730
+altra strada,Palermo,2005,21,677504
+altra strada,Palermo,2006,21,670820
+altra strada,Palermo,2007,31,668686
+altra strada,Palermo,2008,22,668686
+altra strada,Palermo,2009,17,661752
+altra strada,Palermo,2010,16,657757
+altra strada,Palermo,2011,20,655979
+altra strada,Palermo,2012,28,654998
+altra strada,Palermo,2013,27,655908
+altra strada,Roma,2004,123,2542003
+altra strada,Roma,2005,76,2547938
+altra strada,Roma,2006,97,2547677
+altra strada,Roma,2007,95,2626640
+altra strada,Roma,2008,94,2626640
+altra strada,Roma,2009,86,2710932
+altra strada,Roma,2010,89,2734071
+altra strada,Roma,2011,61,2752636
+altra strada,Roma,2012,140,2771584
+altra strada,Roma,2013,60,2626553
+altra strada,Torino,2004,61,867857
+altra strada,Torino,2005,48,885056
+altra strada,Torino,2006,35,900608
+altra strada,Torino,2007,52,900588
+altra strada,Torino,2008,32,900588
+altra strada,Torino,2009,51,910283
+altra strada,Torino,2010,53,909181
+altra strada,Torino,2011,42,908550
+altra strada,Torino,2012,106,906671
+altra strada,Torino,2013,45,870702
+autostrada,Bari,2004,9,314166
+autostrada,Bari,2005,5,321312
+autostrada,Bari,2006,13,326915
+autostrada,Bari,2007,8,325983
+autostrada,Bari,2008,9,325983
+autostrada,Bari,2009,4,321771
+autostrada,Bari,2010,1,320413
+autostrada,Bari,2011,1,320312
+autostrada,Bari,2012,2,319915
+autostrada,Bari,2013,1,314311
+autostrada,Firenze,2004,12,367259
+autostrada,Firenze,2005,11,367659
+autostrada,Firenze,2006,13,366901
+autostrada,Firenze,2007,6,366433
+autostrada,Firenze,2008,5,366433
+autostrada,Firenze,2009,8,365873
+autostrada,Firenze,2010,7,367280
+autostrada,Firenze,2011,7,370091
+autostrada,Firenze,2012,10,372075
+autostrada,Firenze,2013,7,361679
+autostrada,Milano,2004,42,1271898
+autostrada,Milano,2005,31,1285669
+autostrada,Milano,2006,40,1308735
+autostrada,Milano,2007,35,1306086
+autostrada,Milano,2008,26,1306086
+autostrada,Milano,2009,20,1296958
+autostrada,Milano,2010,20,1301600
+autostrada,Milano,2011,17,1315802
+autostrada,Milano,2012,40,1333670
+autostrada,Milano,2013,15,1251137
+autostrada,Napoli,2004,19,1000449
+autostrada,Napoli,2005,19,997810
+autostrada,Napoli,2006,23,984242
+autostrada,Napoli,2007,14,979690
+autostrada,Napoli,2008,23,979690
+autostrada,Napoli,2009,15,968484
+autostrada,Napoli,2010,14,963300
+autostrada,Napoli,2011,8,961257
+autostrada,Napoli,2012,24,958156
+autostrada,Napoli,2013,6,960079
+autostrada,Palermo,2004,14,679730
+autostrada,Palermo,2005,20,677504
+autostrada,Palermo,2006,15,670820
+autostrada,Palermo,2007,8,668686
+autostrada,Palermo,2008,8,668686
+autostrada,Palermo,2009,12,661752
+autostrada,Palermo,2010,7,657757
+autostrada,Palermo,2011,19,655979
+autostrada,Palermo,2013,9,655908
+autostrada,Roma,2004,62,2542003
+autostrada,Roma,2005,30,2547938
+autostrada,Roma,2006,37,2547677
+autostrada,Roma,2007,41,2626640
+autostrada,Roma,2008,35,2626640
+autostrada,Roma,2009,28,2710932
+autostrada,Roma,2010,35,2734071
+autostrada,Roma,2011,31,2752636
+autostrada,Roma,2012,34,2771584
+autostrada,Roma,2013,24,2626553
+autostrada,Torino,2004,24,867857
+autostrada,Torino,2005,23,885056
+autostrada,Torino,2006,25,900608
+autostrada,Torino,2007,20,900588
+autostrada,Torino,2008,22,900588
+autostrada,Torino,2009,8,910283
+autostrada,Torino,2010,6,909181
+autostrada,Torino,2011,17,908550
+autostrada,Torino,2012,28,906671
+autostrada,Torino,2013,8,870702
+strada urbana,Bari,2004,53,314166
+strada urbana,Bari,2005,38,321312
+strada urbana,Bari,2006,35,326915
+strada urbana,Bari,2007,38,325983
+strada urbana,Bari,2008,30,325983
+strada urbana,Bari,2009,29,321771
+strada urbana,Bari,2010,12,320413
+strada urbana,Bari,2011,13,320312
+strada urbana,Bari,2012,44,319915
+strada urbana,Bari,2013,24,314311
+strada urbana,Firenze,2004,45,367259
+strada urbana,Firenze,2005,48,367659
+strada urbana,Firenze,2006,41,366901
+strada urbana,Firenze,2007,40,366433
+strada urbana,Firenze,2008,35,366433
+strada urbana,Firenze,2009,39,365873
+strada urbana,Firenze,2010,50,367280
+strada urbana,Firenze,2011,33,370091
+strada urbana,Firenze,2012,74,372075
+strada urbana,Firenze,2013,29,361679
+strada urbana,Milano,2004,168,1271898
+strada urbana,Milano,2005,152,1285669
+strada urbana,Milano,2006,183,1308735
+strada urbana,Milano,2007,157,1306086
+strada urbana,Milano,2008,124,1306086
+strada urbana,Milano,2009,111,1296958
+strada urbana,Milano,2010,91,1301600
+strada urbana,Milano,2011,72,1315802
+strada urbana,Milano,2012,172,1333670
+strada urbana,Milano,2013,64,1251137
+strada urbana,Napoli,2004,73,1000449
+strada urbana,Napoli,2005,86,997810
+strada urbana,Napoli,2006,73,984242
+strada urbana,Napoli,2007,71,979690
+strada urbana,Napoli,2008,82,979690
+strada urbana,Napoli,2009,89,968484
+strada urbana,Napoli,2010,56,963300
+strada urbana,Napoli,2011,79,961257
+strada urbana,Napoli,2012,136,958156
+strada urbana,Napoli,2013,60,960079
+strada urbana,Palermo,2004,53,679730
+strada urbana,Palermo,2005,30,677504
+strada urbana,Palermo,2006,38,670820
+strada urbana,Palermo,2007,43,668686
+strada urbana,Palermo,2008,43,668686
+strada urbana,Palermo,2009,51,661752
+strada urbana,Palermo,2010,46,657757
+strada urbana,Palermo,2011,31,655979
+strada urbana,Palermo,2012,42,654998
+strada urbana,Palermo,2013,17,655908
+strada urbana,Roma,2004,231,2542003
+strada urbana,Roma,2005,252,2547938
+strada urbana,Roma,2006,222,2547677
+strada urbana,Roma,2007,202,2626640
+strada urbana,Roma,2008,180,2626640
+strada urbana,Roma,2009,194,2710932
+strada urbana,Roma,2010,165,2734071
+strada urbana,Roma,2011,168,2752636
+strada urbana,Roma,2012,282,2771584
+strada urbana,Roma,2013,145,2626553
+strada urbana,Torino,2004,96,867857
+strada urbana,Torino,2005,95,885056
+strada urbana,Torino,2006,80,900608
+strada urbana,Torino,2007,79,900588
+strada urbana,Torino,2008,58,900588
+strada urbana,Torino,2009,67,910283
+strada urbana,Torino,2010,67,909181
+strada urbana,Torino,2011,60,908550
+strada urbana,Torino,2012,114,906671
+strada urbana,Torino,2013,69,870702

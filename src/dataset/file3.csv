@@ -1,0 +1,211 @@
+Naturadellincidente,Territorio,Anno,Totale,Popolazione
+incidente a veicolo isolato,Bari,2004,733,314166
+incidente a veicolo isolato,Bari,2005,675,321312
+incidente a veicolo isolato,Bari,2006,818,326915
+incidente a veicolo isolato,Bari,2007,716,325983
+incidente a veicolo isolato,Bari,2008,719,325983
+incidente a veicolo isolato,Bari,2009,830,321771
+incidente a veicolo isolato,Bari,2010,668,320413
+incidente a veicolo isolato,Bari,2011,631,320312
+incidente a veicolo isolato,Bari,2012,1190,319915
+incidente a veicolo isolato,Bari,2013,569,314311
+incidente a veicolo isolato,Firenze,2004,973,367259
+incidente a veicolo isolato,Firenze,2005,874,367659
+incidente a veicolo isolato,Firenze,2006,816,366901
+incidente a veicolo isolato,Firenze,2007,817,366433
+incidente a veicolo isolato,Firenze,2008,750,366433
+incidente a veicolo isolato,Firenze,2009,774,365873
+incidente a veicolo isolato,Firenze,2010,823,367280
+incidente a veicolo isolato,Firenze,2011,769,370091
+incidente a veicolo isolato,Firenze,2012,1466,372075
+incidente a veicolo isolato,Firenze,2013,675,361679
+incidente a veicolo isolato,Milano,2004,4317,1271898
+incidente a veicolo isolato,Milano,2005,4005,1285669
+incidente a veicolo isolato,Milano,2006,3736,1308735
+incidente a veicolo isolato,Milano,2007,3599,1306086
+incidente a veicolo isolato,Milano,2008,3583,1306086
+incidente a veicolo isolato,Milano,2009,3758,1296958
+incidente a veicolo isolato,Milano,2010,3249,1301600
+incidente a veicolo isolato,Milano,2011,2816,1315802
+incidente a veicolo isolato,Milano,2012,5540,1333670
+incidente a veicolo isolato,Milano,2013,2635,1251137
+incidente a veicolo isolato,Napoli,2004,869,1000449
+incidente a veicolo isolato,Napoli,2005,1075,997810
+incidente a veicolo isolato,Napoli,2006,1019,984242
+incidente a veicolo isolato,Napoli,2007,1053,979690
+incidente a veicolo isolato,Napoli,2008,1116,979690
+incidente a veicolo isolato,Napoli,2009,1174,968484
+incidente a veicolo isolato,Napoli,2010,1102,963300
+incidente a veicolo isolato,Napoli,2011,952,961257
+incidente a veicolo isolato,Napoli,2012,1790,958156
+incidente a veicolo isolato,Napoli,2013,882,960079
+incidente a veicolo isolato,Palermo,2004,449,679730
+incidente a veicolo isolato,Palermo,2005,508,677504
+incidente a veicolo isolato,Palermo,2006,505,670820
+incidente a veicolo isolato,Palermo,2007,528,668686
+incidente a veicolo isolato,Palermo,2008,579,668686
+incidente a veicolo isolato,Palermo,2009,565,661752
+incidente a veicolo isolato,Palermo,2010,499,657757
+incidente a veicolo isolato,Palermo,2011,535,655979
+incidente a veicolo isolato,Palermo,2012,1058,654998
+incidente a veicolo isolato,Palermo,2013,519,655908
+incidente a veicolo isolato,Roma,2004,3643,2542003
+incidente a veicolo isolato,Roma,2005,3311,2547938
+incidente a veicolo isolato,Roma,2006,3888,2547677
+incidente a veicolo isolato,Roma,2007,3122,2626640
+incidente a veicolo isolato,Roma,2008,2865,2626640
+incidente a veicolo isolato,Roma,2009,3305,2710932
+incidente a veicolo isolato,Roma,2010,3071,2734071
+incidente a veicolo isolato,Roma,2011,2759,2752636
+incidente a veicolo isolato,Roma,2012,5290,2771584
+incidente a veicolo isolato,Roma,2013,2531,2626553
+incidente a veicolo isolato,Torino,2004,951,867857
+incidente a veicolo isolato,Torino,2005,920,885056
+incidente a veicolo isolato,Torino,2006,995,900608
+incidente a veicolo isolato,Torino,2007,910,900588
+incidente a veicolo isolato,Torino,2008,818,900588
+incidente a veicolo isolato,Torino,2009,959,910283
+incidente a veicolo isolato,Torino,2010,1030,909181
+incidente a veicolo isolato,Torino,2011,970,908550
+incidente a veicolo isolato,Torino,2012,1716,906671
+incidente a veicolo isolato,Torino,2013,912,870702
+incidente tra veicoli,Bari,2004,9280,314166
+incidente tra veicoli,Bari,2005,9515,321312
+incidente tra veicoli,Bari,2006,9978,326915
+incidente tra veicoli,Bari,2007,8954,325983
+incidente tra veicoli,Bari,2008,9579,325983
+incidente tra veicoli,Bari,2009,9833,321771
+incidente tra veicoli,Bari,2010,7865,320413
+incidente tra veicoli,Bari,2011,7430,320312
+incidente tra veicoli,Bari,2012,13144,319915
+incidente tra veicoli,Bari,2013,6230,314311
+incidente tra veicoli,Firenze,2004,12921,367259
+incidente tra veicoli,Firenze,2005,12023,367659
+incidente tra veicoli,Firenze,2006,11671,366901
+incidente tra veicoli,Firenze,2007,11494,366433
+incidente tra veicoli,Firenze,2008,9642,366433
+incidente tra veicoli,Firenze,2009,9216,365873
+incidente tra veicoli,Firenze,2010,9668,367280
+incidente tra veicoli,Firenze,2011,9603,370091
+incidente tra veicoli,Firenze,2012,17058,372075
+incidente tra veicoli,Firenze,2013,8319,361679
+incidente tra veicoli,Milano,2004,47052,1271898
+incidente tra veicoli,Milano,2005,45165,1285669
+incidente tra veicoli,Milano,2006,44618,1308735
+incidente tra veicoli,Milano,2007,42703,1306086
+incidente tra veicoli,Milano,2008,38563,1306086
+incidente tra veicoli,Milano,2009,35438,1296958
+incidente tra veicoli,Milano,2010,28148,1301600
+incidente tra veicoli,Milano,2011,26942,1315802
+incidente tra veicoli,Milano,2012,49856,1333670
+incidente tra veicoli,Milano,2013,22526,1251137
+incidente tra veicoli,Napoli,2004,8345,1000449
+incidente tra veicoli,Napoli,2005,9542,997810
+incidente tra veicoli,Napoli,2006,8811,984242
+incidente tra veicoli,Napoli,2007,9162,979690
+incidente tra veicoli,Napoli,2008,9370,979690
+incidente tra veicoli,Napoli,2009,9407,968484
+incidente tra veicoli,Napoli,2010,8521,963300
+incidente tra veicoli,Napoli,2011,8286,961257
+incidente tra veicoli,Napoli,2012,14928,958156
+incidente tra veicoli,Napoli,2013,6759,960079
+incidente tra veicoli,Palermo,2004,5841,679730
+incidente tra veicoli,Palermo,2005,5826,677504
+incidente tra veicoli,Palermo,2006,5765,670820
+incidente tra veicoli,Palermo,2007,5736,668686
+incidente tra veicoli,Palermo,2008,5699,668686
+incidente tra veicoli,Palermo,2009,5654,661752
+incidente tra veicoli,Palermo,2010,5420,657757
+incidente tra veicoli,Palermo,2011,5514,655979
+incidente tra veicoli,Palermo,2012,10244,654998
+incidente tra veicoli,Palermo,2013,5213,655908
+incidente tra veicoli,Roma,2004,46573,2542003
+incidente tra veicoli,Roma,2005,45546,2547938
+incidente tra veicoli,Roma,2006,43304,2547677
+incidente tra veicoli,Roma,2007,42570,2626640
+incidente tra veicoli,Roma,2008,38038,2626640
+incidente tra veicoli,Roma,2009,38248,2710932
+incidente tra veicoli,Roma,2010,38559,2734071
+incidente tra veicoli,Roma,2011,37924,2752636
+incidente tra veicoli,Roma,2012,64776,2771584
+incidente tra veicoli,Roma,2013,29785,2626553
+incidente tra veicoli,Torino,2004,13083,867857
+incidente tra veicoli,Torino,2005,12859,885056
+incidente tra veicoli,Torino,2006,13105,900608
+incidente tra veicoli,Torino,2007,13219,900588
+incidente tra veicoli,Torino,2008,11543,900588
+incidente tra veicoli,Torino,2009,11302,910283
+incidente tra veicoli,Torino,2010,11199,909181
+incidente tra veicoli,Torino,2011,11086,908550
+incidente tra veicoli,Torino,2012,20434,906671
+incidente tra veicoli,Torino,2013,9327,870702
+incidente tra veicolo e pedone,Bari,2004,292,314166
+incidente tra veicolo e pedone,Bari,2005,279,321312
+incidente tra veicolo e pedone,Bari,2006,321,326915
+incidente tra veicolo e pedone,Bari,2007,312,325983
+incidente tra veicolo e pedone,Bari,2008,395,325983
+incidente tra veicolo e pedone,Bari,2009,433,321771
+incidente tra veicolo e pedone,Bari,2010,369,320413
+incidente tra veicolo e pedone,Bari,2011,413,320312
+incidente tra veicolo e pedone,Bari,2012,782,319915
+incidente tra veicolo e pedone,Bari,2013,433,314311
+incidente tra veicolo e pedone,Firenze,2004,622,367259
+incidente tra veicolo e pedone,Firenze,2005,621,367659
+incidente tra veicolo e pedone,Firenze,2006,682,366901
+incidente tra veicolo e pedone,Firenze,2007,685,366433
+incidente tra veicolo e pedone,Firenze,2008,680,366433
+incidente tra veicolo e pedone,Firenze,2009,685,365873
+incidente tra veicolo e pedone,Firenze,2010,694,367280
+incidente tra veicolo e pedone,Firenze,2011,673,370091
+incidente tra veicolo e pedone,Firenze,2012,1304,372075
+incidente tra veicolo e pedone,Firenze,2013,658,361679
+incidente tra veicolo e pedone,Milano,2004,2393,1271898
+incidente tra veicolo e pedone,Milano,2005,2385,1285669
+incidente tra veicolo e pedone,Milano,2006,2462,1308735
+incidente tra veicolo e pedone,Milano,2007,2452,1306086
+incidente tra veicolo e pedone,Milano,2008,2423,1306086
+incidente tra veicolo e pedone,Milano,2009,2223,1296958
+incidente tra veicolo e pedone,Milano,2010,2047,1301600
+incidente tra veicolo e pedone,Milano,2011,1899,1315802
+incidente tra veicolo e pedone,Milano,2012,3964,1333670
+incidente tra veicolo e pedone,Milano,2013,1773,1251137
+incidente tra veicolo e pedone,Napoli,2004,461,1000449
+incidente tra veicolo e pedone,Napoli,2005,492,997810
+incidente tra veicolo e pedone,Napoli,2006,738,984242
+incidente tra veicolo e pedone,Napoli,2007,704,979690
+incidente tra veicolo e pedone,Napoli,2008,587,979690
+incidente tra veicolo e pedone,Napoli,2009,656,968484
+incidente tra veicolo e pedone,Napoli,2010,617,963300
+incidente tra veicolo e pedone,Napoli,2011,612,961257
+incidente tra veicolo e pedone,Napoli,2012,1282,958156
+incidente tra veicolo e pedone,Napoli,2013,636,960079
+incidente tra veicolo e pedone,Palermo,2004,265,679730
+incidente tra veicolo e pedone,Palermo,2005,293,677504
+incidente tra veicolo e pedone,Palermo,2006,266,670820
+incidente tra veicolo e pedone,Palermo,2007,289,668686
+incidente tra veicolo e pedone,Palermo,2008,260,668686
+incidente tra veicolo e pedone,Palermo,2009,280,661752
+incidente tra veicolo e pedone,Palermo,2010,310,657757
+incidente tra veicolo e pedone,Palermo,2011,362,655979
+incidente tra veicolo e pedone,Palermo,2012,710,654998
+incidente tra veicolo e pedone,Palermo,2013,347,655908
+incidente tra veicolo e pedone,Roma,2004,2554,2542003
+incidente tra veicolo e pedone,Roma,2005,2658,2547938
+incidente tra veicolo e pedone,Roma,2006,2352,2547677
+incidente tra veicolo e pedone,Roma,2007,2257,2626640
+incidente tra veicolo e pedone,Roma,2008,2245,2626640
+incidente tra veicolo e pedone,Roma,2009,2272,2710932
+incidente tra veicolo e pedone,Roma,2010,2382,2734071
+incidente tra veicolo e pedone,Roma,2011,2325,2752636
+incidente tra veicolo e pedone,Roma,2012,4702,2771584
+incidente tra veicolo e pedone,Roma,2013,2318,2626553
+incidente tra veicolo e pedone,Torino,2004,786,867857
+incidente tra veicolo e pedone,Torino,2005,815,885056
+incidente tra veicolo e pedone,Torino,2006,813,900608
+incidente tra veicolo e pedone,Torino,2007,873,900588
+incidente tra veicolo e pedone,Torino,2008,807,900588
+incidente tra veicolo e pedone,Torino,2009,817,910283
+incidente tra veicolo e pedone,Torino,2010,879,909181
+incidente tra veicolo e pedone,Torino,2011,824,908550
+incidente tra veicolo e pedone,Torino,2012,1520,906671
+incidente tra veicolo e pedone,Torino,2013,802,870702

@@ -1,0 +1,690 @@
+Categoriadeiveicoli,Territorio,Anno,Totale,Popolazione
+altri veicoli,Bari,2004,190,314166
+altri veicoli,Bari,2005,190,321312
+altri veicoli,Bari,2006,203,326915
+altri veicoli,Bari,2007,147,325983
+altri veicoli,Bari,2008,127,325983
+altri veicoli,Bari,2009,157,321771
+altri veicoli,Bari,2010,160,320413
+altri veicoli,Bari,2011,208,320312
+altri veicoli,Bari,2012,332,319915
+altri veicoli,Bari,2013,129,314311
+altri veicoli,Firenze,2004,311,367259
+altri veicoli,Firenze,2005,260,367659
+altri veicoli,Firenze,2006,101,366901
+altri veicoli,Firenze,2007,94,366433
+altri veicoli,Firenze,2008,79,366433
+altri veicoli,Firenze,2009,108,365873
+altri veicoli,Firenze,2010,201,367280
+altri veicoli,Firenze,2011,573,370091
+altri veicoli,Firenze,2012,524,372075
+altri veicoli,Firenze,2013,284,361679
+altri veicoli,Milano,2004,1380,1271898
+altri veicoli,Milano,2005,1283,1285669
+altri veicoli,Milano,2006,1152,1308735
+altri veicoli,Milano,2007,1129,1306086
+altri veicoli,Milano,2008,806,1306086
+altri veicoli,Milano,2009,934,1296958
+altri veicoli,Milano,2010,740,1301600
+altri veicoli,Milano,2011,918,1315802
+altri veicoli,Milano,2012,1768,1333670
+altri veicoli,Milano,2013,894,1251137
+altri veicoli,Napoli,2004,182,1000449
+altri veicoli,Napoli,2005,202,997810
+altri veicoli,Napoli,2006,146,984242
+altri veicoli,Napoli,2007,149,979690
+altri veicoli,Napoli,2008,134,979690
+altri veicoli,Napoli,2009,160,968484
+altri veicoli,Napoli,2010,152,963300
+altri veicoli,Napoli,2011,237,961257
+altri veicoli,Napoli,2012,382,958156
+altri veicoli,Napoli,2013,237,960079
+altri veicoli,Palermo,2004,66,679730
+altri veicoli,Palermo,2005,27,677504
+altri veicoli,Palermo,2006,37,670820
+altri veicoli,Palermo,2007,32,668686
+altri veicoli,Palermo,2008,56,668686
+altri veicoli,Palermo,2009,46,661752
+altri veicoli,Palermo,2010,35,657757
+altri veicoli,Palermo,2011,87,655979
+altri veicoli,Palermo,2012,148,654998
+altri veicoli,Palermo,2013,103,655908
+altri veicoli,Roma,2004,1093,2542003
+altri veicoli,Roma,2005,1105,2547938
+altri veicoli,Roma,2006,1016,2547677
+altri veicoli,Roma,2007,1092,2626640
+altri veicoli,Roma,2008,643,2626640
+altri veicoli,Roma,2009,526,2710932
+altri veicoli,Roma,2010,830,2734071
+altri veicoli,Roma,2011,1167,2752636
+altri veicoli,Roma,2012,1978,2771584
+altri veicoli,Roma,2013,1023,2626553
+altri veicoli,Torino,2004,369,867857
+altri veicoli,Torino,2005,440,885056
+altri veicoli,Torino,2006,365,900608
+altri veicoli,Torino,2007,431,900588
+altri veicoli,Torino,2008,372,900588
+altri veicoli,Torino,2009,200,910283
+altri veicoli,Torino,2010,381,909181
+altri veicoli,Torino,2011,407,908550
+altri veicoli,Torino,2012,784,906671
+altri veicoli,Torino,2013,348,870702
+autobus e filobus,Bari,2004,75,314166
+autobus e filobus,Bari,2005,118,321312
+autobus e filobus,Bari,2006,133,326915
+autobus e filobus,Bari,2007,81,325983
+autobus e filobus,Bari,2008,78,325983
+autobus e filobus,Bari,2009,56,321771
+autobus e filobus,Bari,2010,50,320413
+autobus e filobus,Bari,2011,44,320312
+autobus e filobus,Bari,2012,104,319915
+autobus e filobus,Bari,2013,57,314311
+autobus e filobus,Firenze,2004,160,367259
+autobus e filobus,Firenze,2005,131,367659
+autobus e filobus,Firenze,2006,141,366901
+autobus e filobus,Firenze,2007,119,366433
+autobus e filobus,Firenze,2008,100,366433
+autobus e filobus,Firenze,2009,98,365873
+autobus e filobus,Firenze,2010,120,367280
+autobus e filobus,Firenze,2011,85,370091
+autobus e filobus,Firenze,2012,218,372075
+autobus e filobus,Firenze,2013,100,361679
+autobus e filobus,Milano,2004,394,1271898
+autobus e filobus,Milano,2005,360,1285669
+autobus e filobus,Milano,2006,328,1308735
+autobus e filobus,Milano,2007,353,1306086
+autobus e filobus,Milano,2008,350,1306086
+autobus e filobus,Milano,2009,314,1296958
+autobus e filobus,Milano,2010,277,1301600
+autobus e filobus,Milano,2011,214,1315802
+autobus e filobus,Milano,2012,446,1333670
+autobus e filobus,Milano,2013,160,1251137
+autobus e filobus,Napoli,2004,126,1000449
+autobus e filobus,Napoli,2005,101,997810
+autobus e filobus,Napoli,2006,143,984242
+autobus e filobus,Napoli,2007,105,979690
+autobus e filobus,Napoli,2008,92,979690
+autobus e filobus,Napoli,2009,92,968484
+autobus e filobus,Napoli,2010,99,963300
+autobus e filobus,Napoli,2011,86,961257
+autobus e filobus,Napoli,2012,136,958156
+autobus e filobus,Napoli,2013,61,960079
+autobus e filobus,Palermo,2004,56,679730
+autobus e filobus,Palermo,2005,69,677504
+autobus e filobus,Palermo,2006,60,670820
+autobus e filobus,Palermo,2007,53,668686
+autobus e filobus,Palermo,2008,63,668686
+autobus e filobus,Palermo,2009,51,661752
+autobus e filobus,Palermo,2010,51,657757
+autobus e filobus,Palermo,2011,35,655979
+autobus e filobus,Palermo,2012,74,654998
+autobus e filobus,Palermo,2013,40,655908
+autobus e filobus,Roma,2004,1180,2542003
+autobus e filobus,Roma,2005,625,2547938
+autobus e filobus,Roma,2006,1146,2547677
+autobus e filobus,Roma,2007,505,2626640
+autobus e filobus,Roma,2008,463,2626640
+autobus e filobus,Roma,2009,415,2710932
+autobus e filobus,Roma,2010,445,2734071
+autobus e filobus,Roma,2011,453,2752636
+autobus e filobus,Roma,2012,864,2771584
+autobus e filobus,Roma,2013,355,2626553
+autobus e filobus,Torino,2004,205,867857
+autobus e filobus,Torino,2005,192,885056
+autobus e filobus,Torino,2006,178,900608
+autobus e filobus,Torino,2007,192,900588
+autobus e filobus,Torino,2008,218,900588
+autobus e filobus,Torino,2009,171,910283
+autobus e filobus,Torino,2010,221,909181
+autobus e filobus,Torino,2011,191,908550
+autobus e filobus,Torino,2012,366,906671
+autobus e filobus,Torino,2013,162,870702
+autocarri e motrici,Bari,2004,517,314166
+autocarri e motrici,Bari,2005,554,321312
+autocarri e motrici,Bari,2006,518,326915
+autocarri e motrici,Bari,2007,462,325983
+autocarri e motrici,Bari,2008,520,325983
+autocarri e motrici,Bari,2009,570,321771
+autocarri e motrici,Bari,2010,433,320413
+autocarri e motrici,Bari,2011,400,320312
+autocarri e motrici,Bari,2012,742,319915
+autocarri e motrici,Bari,2013,352,314311
+autocarri e motrici,Firenze,2004,776,367259
+autocarri e motrici,Firenze,2005,812,367659
+autocarri e motrici,Firenze,2006,744,366901
+autocarri e motrici,Firenze,2007,809,366433
+autocarri e motrici,Firenze,2008,745,366433
+autocarri e motrici,Firenze,2009,650,365873
+autocarri e motrici,Firenze,2010,767,367280
+autocarri e motrici,Firenze,2011,674,370091
+autocarri e motrici,Firenze,2012,1132,372075
+autocarri e motrici,Firenze,2013,529,361679
+autocarri e motrici,Milano,2004,3853,1271898
+autocarri e motrici,Milano,2005,3763,1285669
+autocarri e motrici,Milano,2006,3779,1308735
+autocarri e motrici,Milano,2007,3687,1306086
+autocarri e motrici,Milano,2008,3291,1306086
+autocarri e motrici,Milano,2009,2860,1296958
+autocarri e motrici,Milano,2010,2354,1301600
+autocarri e motrici,Milano,2011,2169,1315802
+autocarri e motrici,Milano,2012,3908,1333670
+autocarri e motrici,Milano,2013,1810,1251137
+autocarri e motrici,Napoli,2004,392,1000449
+autocarri e motrici,Napoli,2005,522,997810
+autocarri e motrici,Napoli,2006,423,984242
+autocarri e motrici,Napoli,2007,371,979690
+autocarri e motrici,Napoli,2008,366,979690
+autocarri e motrici,Napoli,2009,340,968484
+autocarri e motrici,Napoli,2010,336,963300
+autocarri e motrici,Napoli,2011,314,961257
+autocarri e motrici,Napoli,2012,612,958156
+autocarri e motrici,Napoli,2013,290,960079
+autocarri e motrici,Palermo,2004,263,679730
+autocarri e motrici,Palermo,2005,264,677504
+autocarri e motrici,Palermo,2006,228,670820
+autocarri e motrici,Palermo,2007,231,668686
+autocarri e motrici,Palermo,2008,215,668686
+autocarri e motrici,Palermo,2009,264,661752
+autocarri e motrici,Palermo,2010,227,657757
+autocarri e motrici,Palermo,2011,226,655979
+autocarri e motrici,Palermo,2012,448,654998
+autocarri e motrici,Palermo,2013,227,655908
+autocarri e motrici,Roma,2004,2524,2542003
+autocarri e motrici,Roma,2005,2320,2547938
+autocarri e motrici,Roma,2006,2506,2547677
+autocarri e motrici,Roma,2007,2382,2626640
+autocarri e motrici,Roma,2008,2392,2626640
+autocarri e motrici,Roma,2009,2171,2710932
+autocarri e motrici,Roma,2010,2204,2734071
+autocarri e motrici,Roma,2011,2159,2752636
+autocarri e motrici,Roma,2012,3722,2771584
+autocarri e motrici,Roma,2013,1731,2626553
+autocarri e motrici,Torino,2004,1044,867857
+autocarri e motrici,Torino,2005,1054,885056
+autocarri e motrici,Torino,2006,1154,900608
+autocarri e motrici,Torino,2007,1045,900588
+autocarri e motrici,Torino,2008,932,900588
+autocarri e motrici,Torino,2009,843,910283
+autocarri e motrici,Torino,2010,871,909181
+autocarri e motrici,Torino,2011,843,908550
+autocarri e motrici,Torino,2012,1572,906671
+autocarri e motrici,Torino,2013,703,870702
+autovetture,Bari,2004,7544,314166
+autovetture,Bari,2005,7712,321312
+autovetture,Bari,2006,8308,326915
+autovetture,Bari,2007,7387,325983
+autovetture,Bari,2008,7836,325983
+autovetture,Bari,2009,8047,321771
+autovetture,Bari,2010,6699,320413
+autovetture,Bari,2011,6353,320312
+autovetture,Bari,2012,11274,319915
+autovetture,Bari,2013,5448,314311
+autovetture,Firenze,2004,8552,367259
+autovetture,Firenze,2005,7744,367659
+autovetture,Firenze,2006,7774,366901
+autovetture,Firenze,2007,7424,366433
+autovetture,Firenze,2008,6330,366433
+autovetture,Firenze,2009,6158,365873
+autovetture,Firenze,2010,6645,367280
+autovetture,Firenze,2011,6237,370091
+autovetture,Firenze,2012,11372,372075
+autovetture,Firenze,2013,5712,361679
+autovetture,Milano,2004,33083,1271898
+autovetture,Milano,2005,31886,1285669
+autovetture,Milano,2006,31555,1308735
+autovetture,Milano,2007,29797,1306086
+autovetture,Milano,2008,27542,1306086
+autovetture,Milano,2009,25506,1296958
+autovetture,Milano,2010,20748,1301600
+autovetture,Milano,2011,19113,1315802
+autovetture,Milano,2012,35666,1333670
+autovetture,Milano,2013,16555,1251137
+autovetture,Napoli,2004,6368,1000449
+autovetture,Napoli,2005,7435,997810
+autovetture,Napoli,2006,6657,984242
+autovetture,Napoli,2007,6779,979690
+autovetture,Napoli,2008,7093,979690
+autovetture,Napoli,2009,7077,968484
+autovetture,Napoli,2010,6526,963300
+autovetture,Napoli,2011,6197,961257
+autovetture,Napoli,2012,11316,958156
+autovetture,Napoli,2013,5208,960079
+autovetture,Palermo,2004,4199,679730
+autovetture,Palermo,2005,4289,677504
+autovetture,Palermo,2006,4134,670820
+autovetture,Palermo,2007,4109,668686
+autovetture,Palermo,2008,4057,668686
+autovetture,Palermo,2009,4086,661752
+autovetture,Palermo,2010,3934,657757
+autovetture,Palermo,2011,4094,655979
+autovetture,Palermo,2012,7666,654998
+autovetture,Palermo,2013,3915,655908
+autovetture,Roma,2004,33031,2542003
+autovetture,Roma,2005,33306,2547938
+autovetture,Roma,2006,30804,2547677
+autovetture,Roma,2007,30063,2626640
+autovetture,Roma,2008,27496,2626640
+autovetture,Roma,2009,28424,2710932
+autovetture,Roma,2010,28863,2734071
+autovetture,Roma,2011,27641,2752636
+autovetture,Roma,2012,48626,2771584
+autovetture,Roma,2013,22910,2626553
+autovetture,Torino,2004,11200,867857
+autovetture,Torino,2005,10773,885056
+autovetture,Torino,2006,11035,900608
+autovetture,Torino,2007,11147,900588
+autovetture,Torino,2008,9785,900588
+autovetture,Torino,2009,9829,910283
+autovetture,Torino,2010,9856,909181
+autovetture,Torino,2011,9538,908550
+autovetture,Torino,2012,17374,906671
+autovetture,Torino,2013,8243,870702
+ciclomotori,Bari,2004,1023,314166
+ciclomotori,Bari,2005,863,321312
+ciclomotori,Bari,2006,902,326915
+ciclomotori,Bari,2007,778,325983
+ciclomotori,Bari,2008,792,325983
+ciclomotori,Bari,2009,949,321771
+ciclomotori,Bari,2010,440,320413
+ciclomotori,Bari,2011,441,320312
+ciclomotori,Bari,2012,1252,319915
+ciclomotori,Bari,2013,250,314311
+ciclomotori,Firenze,2004,2363,367259
+ciclomotori,Firenze,2005,2005,367659
+ciclomotori,Firenze,2006,1675,366901
+ciclomotori,Firenze,2007,1725,366433
+ciclomotori,Firenze,2008,1305,366433
+ciclomotori,Firenze,2009,1228,365873
+ciclomotori,Firenze,2010,1098,367280
+ciclomotori,Firenze,2011,1051,370091
+ciclomotori,Firenze,2012,1690,372075
+ciclomotori,Firenze,2013,726,361679
+ciclomotori,Milano,2004,6072,1271898
+ciclomotori,Milano,2005,5106,1285669
+ciclomotori,Milano,2006,4145,1308735
+ciclomotori,Milano,2007,3749,1306086
+ciclomotori,Milano,2008,3188,1306086
+ciclomotori,Milano,2009,2811,1296958
+ciclomotori,Milano,2010,1877,1301600
+ciclomotori,Milano,2011,1694,1315802
+ciclomotori,Milano,2012,3048,1333670
+ciclomotori,Milano,2013,1110,1251137
+ciclomotori,Napoli,2004,840,1000449
+ciclomotori,Napoli,2005,804,997810
+ciclomotori,Napoli,2006,961,984242
+ciclomotori,Napoli,2007,909,979690
+ciclomotori,Napoli,2008,653,979690
+ciclomotori,Napoli,2009,658,968484
+ciclomotori,Napoli,2010,497,963300
+ciclomotori,Napoli,2011,510,961257
+ciclomotori,Napoli,2012,966,958156
+ciclomotori,Napoli,2013,430,960079
+ciclomotori,Palermo,2004,779,679730
+ciclomotori,Palermo,2005,611,677504
+ciclomotori,Palermo,2006,608,670820
+ciclomotori,Palermo,2007,563,668686
+ciclomotori,Palermo,2008,506,668686
+ciclomotori,Palermo,2009,435,661752
+ciclomotori,Palermo,2010,415,657757
+ciclomotori,Palermo,2011,370,655979
+ciclomotori,Palermo,2012,640,654998
+ciclomotori,Palermo,2013,299,655908
+ciclomotori,Roma,2004,5684,2542003
+ciclomotori,Roma,2005,4950,2547938
+ciclomotori,Roma,2006,3566,2547677
+ciclomotori,Roma,2007,2867,2626640
+ciclomotori,Roma,2008,2104,2626640
+ciclomotori,Roma,2009,2007,2710932
+ciclomotori,Roma,2010,1530,2734071
+ciclomotori,Roma,2011,1291,2752636
+ciclomotori,Roma,2012,2020,2771584
+ciclomotori,Roma,2013,773,2626553
+ciclomotori,Torino,2004,587,867857
+ciclomotori,Torino,2005,526,885056
+ciclomotori,Torino,2006,452,900608
+ciclomotori,Torino,2007,442,900588
+ciclomotori,Torino,2008,366,900588
+ciclomotori,Torino,2009,369,910283
+ciclomotori,Torino,2010,252,909181
+ciclomotori,Torino,2011,258,908550
+ciclomotori,Torino,2012,414,906671
+ciclomotori,Torino,2013,141,870702
+motocarri,Bari,2004,56,314166
+motocarri,Bari,2005,62,321312
+motocarri,Bari,2006,50,326915
+motocarri,Bari,2007,26,325983
+motocarri,Bari,2008,29,325983
+motocarri,Bari,2009,36,321771
+motocarri,Bari,2010,25,320413
+motocarri,Bari,2011,20,320312
+motocarri,Bari,2012,48,319915
+motocarri,Bari,2013,27,314311
+motocarri,Firenze,2004,66,367259
+motocarri,Firenze,2005,35,367659
+motocarri,Firenze,2006,39,366901
+motocarri,Firenze,2007,41,366433
+motocarri,Firenze,2008,20,366433
+motocarri,Firenze,2009,20,365873
+motocarri,Firenze,2010,42,367280
+motocarri,Firenze,2011,30,370091
+motocarri,Firenze,2012,30,372075
+motocarri,Firenze,2013,19,361679
+motocarri,Milano,2004,31,1271898
+motocarri,Milano,2005,32,1285669
+motocarri,Milano,2006,28,1308735
+motocarri,Milano,2007,13,1306086
+motocarri,Milano,2008,12,1306086
+motocarri,Milano,2009,9,1296958
+motocarri,Milano,2010,15,1301600
+motocarri,Milano,2011,9,1315802
+motocarri,Milano,2012,26,1333670
+motocarri,Milano,2013,3,1251137
+motocarri,Napoli,2004,23,1000449
+motocarri,Napoli,2005,36,997810
+motocarri,Napoli,2006,25,984242
+motocarri,Napoli,2007,27,979690
+motocarri,Napoli,2008,41,979690
+motocarri,Napoli,2009,27,968484
+motocarri,Napoli,2010,28,963300
+motocarri,Napoli,2011,15,961257
+motocarri,Napoli,2012,62,958156
+motocarri,Napoli,2013,16,960079
+motocarri,Palermo,2004,23,679730
+motocarri,Palermo,2005,24,677504
+motocarri,Palermo,2006,25,670820
+motocarri,Palermo,2007,15,668686
+motocarri,Palermo,2008,29,668686
+motocarri,Palermo,2009,16,661752
+motocarri,Palermo,2010,22,657757
+motocarri,Palermo,2011,17,655979
+motocarri,Palermo,2012,32,654998
+motocarri,Palermo,2013,24,655908
+motocarri,Roma,2004,46,2542003
+motocarri,Roma,2005,74,2547938
+motocarri,Roma,2006,13,2547677
+motocarri,Roma,2007,23,2626640
+motocarri,Roma,2008,9,2626640
+motocarri,Roma,2009,17,2710932
+motocarri,Roma,2010,26,2734071
+motocarri,Roma,2011,13,2752636
+motocarri,Roma,2012,30,2771584
+motocarri,Roma,2013,10,2626553
+motocarri,Torino,2004,30,867857
+motocarri,Torino,2005,25,885056
+motocarri,Torino,2006,25,900608
+motocarri,Torino,2007,13,900588
+motocarri,Torino,2008,13,900588
+motocarri,Torino,2009,10,910283
+motocarri,Torino,2010,11,909181
+motocarri,Torino,2011,18,908550
+motocarri,Torino,2012,16,906671
+motocarri,Torino,2013,3,870702
+motocicli,Bari,2004,832,314166
+motocicli,Bari,2005,873,321312
+motocicli,Bari,2006,905,326915
+motocicli,Bari,2007,1000,325983
+motocicli,Bari,2008,1161,325983
+motocicli,Bari,2009,1066,321771
+motocicli,Bari,2010,945,320413
+motocicli,Bari,2011,836,320312
+motocicli,Bari,2012,998,319915
+motocicli,Bari,2013,797,314311
+motocicli,Firenze,2004,2132,367259
+motocicli,Firenze,2005,2325,367659
+motocicli,Firenze,2006,2488,366901
+motocicli,Firenze,2007,2587,366433
+motocicli,Firenze,2008,2285,366433
+motocicli,Firenze,2009,2212,365873
+motocicli,Firenze,2010,2067,367280
+motocicli,Firenze,2011,2165,370091
+motocicli,Firenze,2012,3870,372075
+motocicli,Firenze,2013,1770,361679
+motocicli,Milano,2004,6563,1271898
+motocicli,Milano,2005,6659,1285669
+motocicli,Milano,2006,7227,1308735
+motocicli,Milano,2007,7418,1306086
+motocicli,Milano,2008,6983,1306086
+motocicli,Milano,2009,6595,1296958
+motocicli,Milano,2010,5561,1301600
+motocicli,Milano,2011,5518,1315802
+motocicli,Milano,2012,10052,1333670
+motocicli,Milano,2013,4308,1251137
+motocicli,Napoli,2004,1699,1000449
+motocicli,Napoli,2005,1946,997810
+motocicli,Napoli,2006,2155,984242
+motocicli,Napoli,2007,2493,979690
+motocicli,Napoli,2008,2610,979690
+motocicli,Napoli,2009,2772,968484
+motocicli,Napoli,2010,2509,963300
+motocicli,Napoli,2011,2390,961257
+motocicli,Napoli,2012,4296,958156
+motocicli,Napoli,2013,1924,960079
+motocicli,Palermo,2004,1106,679730
+motocicli,Palermo,2005,1301,677504
+motocicli,Palermo,2006,1402,670820
+motocicli,Palermo,2007,1494,668686
+motocicli,Palermo,2008,1561,668686
+motocicli,Palermo,2009,1523,661752
+motocicli,Palermo,2010,1465,657757
+motocicli,Palermo,2011,1469,655979
+motocicli,Palermo,2012,2784,654998
+motocicli,Palermo,2013,1294,655908
+motocicli,Roma,2004,8809,2542003
+motocicli,Roma,2005,8761,2547938
+motocicli,Roma,2006,9993,2547677
+motocicli,Roma,2007,10567,2626640
+motocicli,Roma,2008,9568,2626640
+motocicli,Roma,2009,9722,2710932
+motocicli,Roma,2010,9546,2734071
+motocicli,Roma,2011,9746,2752636
+motocicli,Roma,2012,16416,2771584
+motocicli,Roma,2013,7317,2626553
+motocicli,Torino,2004,1011,867857
+motocicli,Torino,2005,1150,885056
+motocicli,Torino,2006,1252,900608
+motocicli,Torino,2007,1275,900588
+motocicli,Torino,2008,1104,900588
+motocicli,Torino,2009,1251,910283
+motocicli,Torino,2010,1084,909181
+motocicli,Torino,2011,1148,908550
+motocicli,Torino,2012,2064,906671
+motocicli,Torino,2013,934,870702
+quadricicli,Bari,2004,11,314166
+quadricicli,Bari,2005,8,321312
+quadricicli,Bari,2006,4,326915
+quadricicli,Bari,2007,3,325983
+quadricicli,Bari,2008,10,325983
+quadricicli,Bari,2009,10,321771
+quadricicli,Bari,2010,12,320413
+quadricicli,Bari,2011,9,320312
+quadricicli,Bari,2012,8,319915
+quadricicli,Bari,2013,11,314311
+quadricicli,Firenze,2004,7,367259
+quadricicli,Firenze,2005,4,367659
+quadricicli,Firenze,2006,9,366901
+quadricicli,Firenze,2007,7,366433
+quadricicli,Firenze,2008,13,366433
+quadricicli,Firenze,2009,13,365873
+quadricicli,Firenze,2010,16,367280
+quadricicli,Firenze,2011,17,370091
+quadricicli,Firenze,2012,32,372075
+quadricicli,Firenze,2013,19,361679
+quadricicli,Milano,2004,36,1271898
+quadricicli,Milano,2005,46,1285669
+quadricicli,Milano,2006,51,1308735
+quadricicli,Milano,2007,36,1306086
+quadricicli,Milano,2008,34,1306086
+quadricicli,Milano,2009,48,1296958
+quadricicli,Milano,2010,22,1301600
+quadricicli,Milano,2011,18,1315802
+quadricicli,Milano,2012,66,1333670
+quadricicli,Milano,2013,22,1251137
+quadricicli,Napoli,2004,2,1000449
+quadricicli,Napoli,2005,9,997810
+quadricicli,Napoli,2006,13,984242
+quadricicli,Napoli,2007,11,979690
+quadricicli,Napoli,2008,20,979690
+quadricicli,Napoli,2009,28,968484
+quadricicli,Napoli,2010,25,963300
+quadricicli,Napoli,2011,19,961257
+quadricicli,Napoli,2012,42,958156
+quadricicli,Napoli,2013,18,960079
+quadricicli,Palermo,2004,2,679730
+quadricicli,Palermo,2005,6,677504
+quadricicli,Palermo,2006,7,670820
+quadricicli,Palermo,2007,12,668686
+quadricicli,Palermo,2008,15,668686
+quadricicli,Palermo,2009,19,661752
+quadricicli,Palermo,2010,17,657757
+quadricicli,Palermo,2011,19,655979
+quadricicli,Palermo,2012,22,654998
+quadricicli,Palermo,2013,22,655908
+quadricicli,Roma,2004,9,2542003
+quadricicli,Roma,2005,40,2547938
+quadricicli,Roma,2006,127,2547677
+quadricicli,Roma,2007,135,2626640
+quadricicli,Roma,2008,133,2626640
+quadricicli,Roma,2009,152,2710932
+quadricicli,Roma,2010,150,2734071
+quadricicli,Roma,2011,157,2752636
+quadricicli,Roma,2012,296,2771584
+quadricicli,Roma,2013,125,2626553
+quadricicli,Torino,2004,25,867857
+quadricicli,Torino,2005,16,885056
+quadricicli,Torino,2006,14,900608
+quadricicli,Torino,2007,12,900588
+quadricicli,Torino,2008,7,900588
+quadricicli,Torino,2009,24,910283
+quadricicli,Torino,2010,14,909181
+quadricicli,Torino,2011,10,908550
+quadricicli,Torino,2012,14,906671
+quadricicli,Torino,2013,10,870702
+tram,Bari,2004,1,314166
+tram,Bari,2005,1,321312
+tram,Bari,2006,1,326915
+tram,Bari,2009,1,321771
+tram,Bari,2010,1,320413
+tram,Bari,2011,2,320312
+tram,Firenze,2004,1,367259
+tram,Firenze,2005,1,367659
+tram,Firenze,2006,2,366901
+tram,Firenze,2010,3,367280
+tram,Firenze,2011,5,370091
+tram,Firenze,2012,8,372075
+tram,Firenze,2013,8,361679
+tram,Milano,2004,209,1271898
+tram,Milano,2005,221,1285669
+tram,Milano,2006,199,1308735
+tram,Milano,2007,193,1306086
+tram,Milano,2008,193,1306086
+tram,Milano,2009,172,1296958
+tram,Milano,2010,134,1301600
+tram,Milano,2011,95,1315802
+tram,Milano,2012,180,1333670
+tram,Milano,2013,80,1251137
+tram,Napoli,2004,6,1000449
+tram,Napoli,2005,6,997810
+tram,Napoli,2006,6,984242
+tram,Napoli,2007,8,979690
+tram,Napoli,2008,2,979690
+tram,Napoli,2009,5,968484
+tram,Napoli,2010,1,963300
+tram,Napoli,2011,3,961257
+tram,Napoli,2012,12,958156
+tram,Napoli,2013,4,960079
+tram,Palermo,2006,2,670820
+tram,Palermo,2007,1,668686
+tram,Palermo,2009,1,661752
+tram,Palermo,2010,3,657757
+tram,Palermo,2011,3,655979
+tram,Palermo,2013,2,655908
+tram,Roma,2004,115,2542003
+tram,Roma,2005,39,2547938
+tram,Roma,2006,79,2547677
+tram,Roma,2007,30,2626640
+tram,Roma,2008,35,2626640
+tram,Roma,2009,21,2710932
+tram,Roma,2010,28,2734071
+tram,Roma,2011,40,2752636
+tram,Roma,2012,70,2771584
+tram,Roma,2013,25,2626553
+tram,Torino,2004,63,867857
+tram,Torino,2005,61,885056
+tram,Torino,2006,54,900608
+tram,Torino,2007,57,900588
+tram,Torino,2008,52,900588
+tram,Torino,2009,34,910283
+tram,Torino,2010,32,909181
+tram,Torino,2011,41,908550
+tram,Torino,2012,96,906671
+tram,Torino,2013,43,870702
+velocipede,Bari,2004,56,314166
+velocipede,Bari,2005,88,321312
+velocipede,Bari,2006,93,326915
+velocipede,Bari,2007,98,325983
+velocipede,Bari,2008,140,325983
+velocipede,Bari,2009,204,321771
+velocipede,Bari,2010,137,320413
+velocipede,Bari,2011,161,320312
+velocipede,Bari,2012,358,319915
+velocipede,Bari,2013,161,314311
+velocipede,Firenze,2004,148,367259
+velocipede,Firenze,2005,201,367659
+velocipede,Firenze,2006,196,366901
+velocipede,Firenze,2007,190,366433
+velocipede,Firenze,2008,195,366433
+velocipede,Firenze,2009,188,365873
+velocipede,Firenze,2010,226,367280
+velocipede,Firenze,2011,208,370091
+velocipede,Firenze,2012,952,372075
+velocipede,Firenze,2013,485,361679
+velocipede,Milano,2004,2141,1271898
+velocipede,Milano,2005,2199,1285669
+velocipede,Milano,2006,2352,1308735
+velocipede,Milano,2007,2379,1306086
+velocipede,Milano,2008,2170,1306086
+velocipede,Milano,2009,2170,1296958
+velocipede,Milano,2010,1716,1301600
+velocipede,Milano,2011,1909,1315802
+velocipede,Milano,2012,4200,1333670
+velocipede,Milano,2013,1992,1251137
+velocipede,Napoli,2004,37,1000449
+velocipede,Napoli,2005,48,997810
+velocipede,Napoli,2006,39,984242
+velocipede,Napoli,2007,67,979690
+velocipede,Napoli,2008,62,979690
+velocipede,Napoli,2009,78,968484
+velocipede,Napoli,2010,67,963300
+velocipede,Napoli,2011,79,961257
+velocipede,Napoli,2012,176,958156
+velocipede,Napoli,2013,89,960079
+velocipede,Palermo,2004,61,679730
+velocipede,Palermo,2005,36,677504
+velocipede,Palermo,2006,33,670820
+velocipede,Palermo,2007,43,668686
+velocipede,Palermo,2008,36,668686
+velocipede,Palermo,2009,58,661752
+velocipede,Palermo,2010,60,657757
+velocipede,Palermo,2011,91,655979
+velocipede,Palermo,2012,198,654998
+velocipede,Palermo,2013,153,655908
+velocipede,Roma,2004,279,2542003
+velocipede,Roma,2005,295,2547938
+velocipede,Roma,2006,294,2547677
+velocipede,Roma,2007,285,2626640
+velocipede,Roma,2008,305,2626640
+velocipede,Roma,2009,370,2710932
+velocipede,Roma,2010,390,2734071
+velocipede,Roma,2011,341,2752636
+velocipede,Roma,2012,746,2771584
+velocipede,Roma,2013,365,2626553
+velocipede,Torino,2004,286,867857
+velocipede,Torino,2005,357,885056
+velocipede,Torino,2006,384,900608
+velocipede,Torino,2007,388,900588
+velocipede,Torino,2008,319,900588
+velocipede,Torino,2009,347,910283
+velocipede,Torino,2010,386,909181
+velocipede,Torino,2011,426,908550
+velocipede,Torino,2012,970,906671
+velocipede,Torino,2013,454,870702
